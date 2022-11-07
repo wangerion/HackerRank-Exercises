@@ -1,4 +1,4 @@
-arr = [1, 2, 3, 4, 5, 4, 3, 2, 1, 3, 4] #raspunsul trebuie sa fie 3
+arr = [1, 2, 3, 4, 5, 4, 3, 2, 1, 3, 4] #The answer needs to be 3
 r = {}
 a = []
 for i in arr:
